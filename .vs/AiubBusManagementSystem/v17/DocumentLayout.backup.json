@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\utils\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\student\\studentdashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\repositories\\travelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\repositories\\travelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\aiubbusmanagementsystem\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\admin\\admindashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\repositories\\busassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\repositories\\busassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|c:\\users\\asus\\downloads\\project\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\aiubbusmanagementsystem\\usercontrols\\driver\\driverdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C2672B-80D0-4D31-894C-D2B5572E3406}|AiubBusManagementSystem\\AiubBusManagementSystem.csproj|solutionrelative:aiubbusmanagementsystem\\usercontrols\\driver\\driverdashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Utils\\DbConnection.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Utils\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Utils\\DbConnection.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\Utils\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:58:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Program.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:57:57.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs [Design]",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:02:35.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDashboardControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs [Design]",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:00:17.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwN0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:05:57.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\Services\\StudentService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAcwHsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDashboardControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.Designer.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.Designer.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Student\\StudentDashboardControl.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:51:16.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TravelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Repositories\\TravelRepository.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Repositories\\TravelRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Repositories\\TravelRepository.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\Repositories\\TravelRepository.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAIBJwAkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:11:01.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboardControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.Designer.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.Designer.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:55:32.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Forms\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "AiubBusManagementSystem\\Forms\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:59:24.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Admin\\AdminDashboardControl.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAADwv+MBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:42:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Repositories\\BusAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\Repositories\\BusAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\Repositories\\BusAssignmentRepository.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\Repositories\\BusAssignmentRepository.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:44.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DriverDashboardControl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Driver\\DriverDashboardControl.cs",
+              "RelativeDocumentMoniker": "AiubBusManagementSystem\\UserControls\\Driver\\DriverDashboardControl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\project\\AIUBBusManagementSystem\\AiubBusManagementSystem\\AiubBusManagementSystem\\UserControls\\Driver\\DriverDashboardControl.cs",
+              "RelativeToolTip": "AiubBusManagementSystem\\UserControls\\Driver\\DriverDashboardControl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:34:18.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
